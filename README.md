@@ -1,24 +1,24 @@
-# The-Anki-Vector-Bot
-# The-Anki-Vector-Bot Based on Python Telegram Bot
+# The-Dofini-bot
+# Dofini-Bot Based on Python Telegram Bot
 <p align="center">
-  <img src="https://telegra.ph/file/3c9547262214b966babb8.jpg">
+  <img src="https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/The-Anki-Vector.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshanaBro/The-Anki-Vector.git)
 
 
 ### Video Tutorial:
-Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
+Complete guide on deploying @DofiniDevbot's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
-☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
+☆ Video by [Pawan Theekshana](https://youtu.be/tqEuFWIG-qs) ☆
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
-## New version Avaiilable on Telegram as [The-Anki-Vector-Bot](https://t.me/TheAnkiVectorbot)
-## The-Anki-Vector-Bot is the latest
+## New version Avaiilable on Telegram as [TDofini-Bot](https://t.me/DofiniDevbot)
+## Dofini-Bot is the latest
 
 
 
@@ -28,12 +28,12 @@ This repo was just revamped to suit an Anime-centric community. All original cre
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [The Anki Vector bot](https://t.me/ankivectorUpdates) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [The Anki Vector bot](https://t.me/DofiniUpdates) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## The Dofini bot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
 The Anki Vector bot(advvanced)
 
 ## Special Credits
-- [Damantha](https://github.com/Damantha126) - A Co-Developer of Project
+- [Pawan Theekshana](https://github.com/ImTheekshanaBro) - A Co-Developer of Project
