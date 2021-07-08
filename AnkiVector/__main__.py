@@ -68,7 +68,7 @@ I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana•
 Hit /help to find my list of available commands
  
 """
-DOfINI IMG('https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg')
+
 buttons = [
     [
         InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/DofiniUpdates"),
