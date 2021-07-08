@@ -88,7 +88,7 @@ buttons = [
     ],
 ]
 
-
+ANKIVECTOR_IMG = 'https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg'
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
 ✪ /start: Starts me! You've probably already used this.
