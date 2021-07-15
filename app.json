@@ -1,7 +1,7 @@
 {
-      "name": "Dofini",
+      "name": "Isabella",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg",
+      "logo": "https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/ImTheekshanaBro/Dofini-Dev-bot",
+   "repository": "https://github.com/VTheekshana/The-Isabella-Bot",
    "addons": [
       {
          "options": {
@@ -59,7 +59,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "DofiniUpdates"
+         "value": "IsabellaUpdates"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
