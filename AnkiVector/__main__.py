@@ -71,11 +71,11 @@ Hit /help to find my list of available commands
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/DofiniUpdates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/DifiniSupport_Official"),
+        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/IsabellaUpdates"),
+        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/IsabellaSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/slhitbotofficial"),
+        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/SDBOTz"),
         
     ],
     [
@@ -83,14 +83,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Dofini to your group ➕", url="http://t.me/DofiniDevBot?startgroup=true"
+            text="➕ Add Isabella to your group ➕", url="http://t.me/TheIsabellaBot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = 'https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg'
+ANKIVECTOR_IMG = 'https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg'
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -105,7 +105,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Pawan Theekshana](t.me/Pawan_Theekshana)"""
+Support them  [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/Theekshana_Qeen)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
