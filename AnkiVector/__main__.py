@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm Isabella
-I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
+I'm a Powerful group manager bot With Cool Modules. Made by [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/Theekshana_Qeen)
 Hit /help to find my list of available commands
  
 """
