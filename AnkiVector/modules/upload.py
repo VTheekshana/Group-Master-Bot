@@ -118,7 +118,7 @@ async def tmp(event):
 
             str(time.time() - start)
             await orta.edit(
-                f"File Successfully Uploaded to TmpNinja.\n\nLink 👉 {download_link}\n\nUploaded by @TheAnkiVectorbot 👸"
+                f"File Successfully Uploaded to TmpNinja.\n\nLink 👉 {download_link}\n\nUploaded by @TheMizubot 👸"
             )
         except Exception as e:
             traceback.print_exc()
@@ -159,7 +159,7 @@ async def up(event):
                 event.chat.id,
                 dosya,
                 force_document=True,
-                caption=f"Uploaded By @TheAnkiVectorbot",
+                caption=f"Uploaded By @TheMizubot",
             )
         except Exception as e:
             traceback.print_exc()
