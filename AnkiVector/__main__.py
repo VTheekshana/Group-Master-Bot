@@ -63,7 +63,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Tiana](https://telegra.ph/file/a2f4c1588be4df272baf8.jpg)
+Hello there, I'm [Mizu](https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg)
 I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
 Hit /help to find my list of available commands
  
@@ -83,15 +83,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Tiana to your group ➕", url="http://t.me/TheTianabot?startgroup=true"
+            text="➕ Add Tiana to your group ➕", url="http://t.me/TheMizuBot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/a2f4c1588be4df272baf8.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/a2f4c1588be4df272baf8.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
