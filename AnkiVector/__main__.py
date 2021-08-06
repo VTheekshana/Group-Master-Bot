@@ -63,19 +63,19 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Isabella
-I'm a Powerful group manager bot With Cool Modules. Made by [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/Theekshana_Qeen)
+Hello there, I'm Group Master Bot
+I'm a Powerful group manager bot With Cool Modules. Made by [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/ImTheekshana)
 Hit /help to find my list of available commands
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/IsabellaUpdates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/IsabellaSupport_Official"),
+        InlineKeyboardButton(text="Theekshana Support", url="https://t.me/Theekshana_Support"),
+        InlineKeyboardButton(text="� Theekshana Official", url="https://t.me/Theekshana _Official"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/SDBOTz"),
+        InlineKeyboardButton(text="Other Bot", url="https://t.me/TheMizuBot"),
         
     ],
     [
@@ -83,14 +83,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Isabella to your group ➕", url="http://t.me/TheIsabellaBot?startgroup=true"
+            text="➕ Add Group Master  to your group ➕", url="http://t.me/TheIsabellaBot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = 'https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg'
+ANKIVECTOR_IMG = 'https://telegra.ph/file/1309942772accbfe0e087.jpg'
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/1309942772accbfe0e087.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -105,7 +105,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/Theekshana_Qeen)"""
+Support them  [𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 </OᖴᖴᒪIᑎE> 🇱🇰](t.me/ImTheekshana)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -367,7 +367,7 @@ def AnkiVector_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Isabella Updates.* "
-            f"\n\n Join [IsabellaUpdates](https://t.me/IsabellaUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
+            f"\n\n Join [Theekshana Official](https://t.me/Theekshana_Official) To Keep Yourself Updated About {dispatcher.bot.first_name}"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features"
             f"\n\nYou Can Know More About Me By Clicking The Below Buttons",
