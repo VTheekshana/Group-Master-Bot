@@ -71,19 +71,16 @@ Hit /help to find my list of available commands
 
 buttons = [
     [
-        InlineKeyboardButton(text="Theekshana Support", url="https://t.me/Theekshana_Support"),
-        InlineKeyboardButton(text="� Theekshana Official", url="https://t.me/Theekshana _Official"),
+        InlineKeyboardButton(text="Support", url="https://t.me/Theekshana_Support"),
+        InlineKeyboardButton(text="Updates", url="https://t.me/Theekshana _Official"),
     ],
     [
         InlineKeyboardButton(text="Other Bot", url="https://t.me/TheMizuBot"),
-        
-    ],
-    [
-        InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
+        InlineKeyboardButton(text="Help", callback_data="help_back")
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Group Master  to your group ➕", url="http://t.me/TheIsabellaBot?startgroup=true"
+            text="➕ Add Group Master  to your group ➕", url="http://t.me/TheMasterBot?startgroup=true"
         ),
     ],
 ]
